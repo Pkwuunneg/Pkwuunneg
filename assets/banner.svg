@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%">
+  <defs>
+    <!-- 渐变背景 -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <!-- 装饰圆 -->
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- 背景 -->
+  <rect width="1200" height="400" fill="url(#bg)"/>
+  
+  <!-- 装饰圆 -->
+  <circle cx="900" cy="100" r="150" fill="url(#glow)"/>
+  <circle cx="200" cy="350" r="100" fill="url(#glow)"/>
+  
+  <!-- 细线装饰 -->
+  <line x1="0" y1="200" x2="1200" y2="200" stroke="#334155" stroke-width="1" opacity="0.5"/>
+  
+  <!-- 主标题 -->
+  <text x="600" y="170" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="bold" fill="#f8fafc" text-anchor="middle">
+    Research Homepage
+  </text>
+  
+  <!-- 副标题 -->
+  <text x="600" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="20" fill="#94a3b8" text-anchor="middle">
+    Mathematics · Statistics · Machine Learning
+  </text>
+  
+  <!-- 底部装饰线 -->
+  <line x1="500" y1="260" x2="700" y2="260" stroke="#3b82f6" stroke-width="2" opacity="0.6"/>
+</svg>
