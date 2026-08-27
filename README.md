@@ -53,6 +53,14 @@
   <img src="https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolfram-mathematica&logoColor=white" />
 </p>
 
+<!-- 联系方式 -->
+## 📫 联系方式 · Contact
+
+<p align="center">
+  <a href="mailto:kunpengwu@mail.nankai.edu.cn">
+    <img src="https://img.shields.io/badge/邮箱%20Email-kunpengwu@mail.nankai.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <!-- 页脚 -->
 <p align="center">
