@@ -22,18 +22,28 @@
 
 - 🎓 **南开大学物理伯苓班本科生** | *Undergraduate at Nankai University, Physics Boling Class*
 - 🔬 **关注的研究方向：** 量子信息、量子力学基础问题 | *Research areas of interest: Quantum Information, Foundations of Quantum Mechanics*
-<!--- 📫 **联系方式：**  | *Contact* -->
+- 📫 **联系方式：kunpengwu@mail.nankai.edu.cn**  | *Contact*
 <!-- - 🌐 **个人主页：** [your-website.com](https://your-website.com) | *Personal Website*-->
 
-<!-- 研究方向 -->
-## 🔬 关注的研究方向 · Research Interests
+<!-- 目前在做 -->
+## 🎯 目前在做 · Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-量子信息%20Quantum%20Information-0078D4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-量子力学基础%20Foundations%20of%20QM-2D8C3F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-量子计算%20Quantum%20Computing-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-量子纠缠%20Quantum%20Entanglement-1E88E5?style=for-the-badge&logoColor=white" />
+  <sub>
+    <code>量子信息理论学习</code> · 
+    <code>量子力学基础</code> · 
+    <code>量子计算</code> · 
+    <code>物理课程笔记整理</code> · 
+    <code>科研工具链搭建</code>
+  </sub>
 </p>
+
+| 方向 Track | 具体内容 What I'm working on |
+|:-----------|:---------------------------|
+| **量子基础** Foundations of QM | 测量问题、量子纠缠理论、EPR 与 Bell 不等式 |
+| **量子计算** Quantum Computing | 基础量子算法 |
+| **课程学习** Coursework | 量子力学、数学物理方法、理论力学、电动力学 |
+| **工具积累** Tools & Skills | LaTeX 笔记、Python/MATLAB/Mathematica 计算 |
 
 <!-- 教育背景 -->
 ## 🎓 教育背景 · Education
