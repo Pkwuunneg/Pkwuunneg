@@ -9,7 +9,7 @@
 <h3 align="center">南开大学 · 物理伯苓班 | Nankai University · Physics Boling Class</h3>
 
 <p align="center">
-  <em>研究方向：量子信息 · 量子力学基础问题 | Research: Quantum Information · Foundations of Quantum Mechanics</em>
+  <em>关注的研究方向：量子信息 · 量子力学基础问题 | Research areas of interest: Quantum Information · Foundations of Quantum Mechanics</em>
 </p>
 
 <!-- 分隔线 -->
@@ -21,12 +21,12 @@
 ## 🧑‍💻 关于我 · About Me
 
 - 🎓 **南开大学物理伯苓班本科生** | *Undergraduate at Nankai University, Physics Boling Class*
-- 🔬 **研究方向：** 量子信息、量子力学基础问题 | *Research: Quantum Information, Foundations of Quantum Mechanics*
-- 📫 **联系方式：** your.email@example.com | *Contact*
-- 🌐 **个人主页：** [your-website.com](https://your-website.com) | *Personal Website*
+- 🔬 **关注的研究方向：** 量子信息、量子力学基础问题 | *Research areas of interest: Quantum Information, Foundations of Quantum Mechanics*
+<!--- 📫 **联系方式：**  | *Contact* -->
+<!-- - 🌐 **个人主页：** [your-website.com](https://your-website.com) | *Personal Website*-->
 
 <!-- 研究方向 -->
-## 🔬 研究方向 · Research Interests
+## 🔬 关注的研究方向 · Research Interests
 
 <p align="center">
   <img src="https://img.shields.io/badge/-量子信息%20Quantum%20Information-0078D4?style=for-the-badge&logoColor=white" />
@@ -46,31 +46,13 @@
 ## 🛠️ 技能与工具 · Skills & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white" />
   <img src="https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolfram-mathematica&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<!-- 联系方式 -->
-## 📫 联系方式 · Contact
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/邮箱%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-s20scholar&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
-    <img src="https://img.shields.io/badge/领英%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 <!-- 页脚 -->
 <p align="center">
