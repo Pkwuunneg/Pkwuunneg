@@ -50,7 +50,7 @@
 
 | 学位 Degree | 学校 Institution | 时间 Year |
 |:------:|:-----------|:----:|
-| 理学学士 B.S. in Physics | 南开大学 Nankai University | 20XX - Present |
+| 理学学士 B.S. in Physics | 南开大学 Nankai University | 2024 - Present |
 
 <!-- 技能 -->
 ## 🛠️ 技能与工具 · Skills & Tools
