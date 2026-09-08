@@ -22,7 +22,7 @@
 
 - 🎓 **南开大学物理伯苓班本科生** | *Undergraduate at Nankai University, Physics Boling Class*
 - 🔬 **关注的研究方向：** 量子信息、量子力学基础问题 | *Research areas of interest: Quantum Information, Foundations of Quantum Mechanics*
-- 📫 **联系方式：kunpengwu@mail.nankai.edu.cn**  | *Contact*
+- 📫 **联系方式：pkwuunneg@163.com**  | *Contact*
 <!-- - 🌐 **个人主页：** [your-website.com](https://your-website.com) | *Personal Website*-->
 
 <!-- 目前在做 -->
@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="mailto:kunpengwu@mail.nankai.edu.cn">
-    <img src="https://img.shields.io/badge/邮箱%20Email-kunpengwu@mail.nankai.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/邮箱%20Email-pkwuunneg@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
